@@ -8,9 +8,9 @@
 
 ## Team Members:
    Ruchith Gowda MS [ USN NO. : 2082508296]
-   Raksha [USN NO. : 2112508031]
+   Raksha B K [USN NO. : 2112508031]
    Sivani [USN NO. : 2082508335]
-   Sai Prasad Mahadev 
+   Sai Prasad Mahadev[USN NO:2102508117] 
 
 ## Features
 * Personalized workout plans
